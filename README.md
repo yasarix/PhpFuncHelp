@@ -1,3 +1,3 @@
 # Sublime Text - PHP Function Help
 
-A small plugin to search selected text in PHP.net's function list when you hit CTRL+SHIFT+H.
+A small plugin to search selected text in PHP.net's function list. Just select, and hit CTRL+SHIFT+H.
