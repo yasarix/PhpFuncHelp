@@ -7,4 +7,6 @@ To install, download source code as zip file, and extract it under;
 * On Linux/*BSD: ~/.Sublime Text 2/Packages
 * On Windows: %APPDATA%\Sublime Text 2/Packages
 
+For Sublime Text 3, use "Sublime Text" instead of "Sublime Text 2" in directory paths.
+
 directory.
